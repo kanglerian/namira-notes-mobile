@@ -1,4 +1,4 @@
-import { View, StatusBar, TextInput, Text, TouchableOpacity, ScrollView, StyleSheet, Alert } from 'react-native'
+import { View, TextInput, Text, TouchableOpacity, ScrollView, StyleSheet, Alert } from 'react-native'
 import React, { useEffect, useState, useRef } from 'react'
 import colorStyle from './src/styles/colorStyle';
 import { database, createTable } from './src/config/database';
